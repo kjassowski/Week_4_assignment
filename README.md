@@ -1,6 +1,6 @@
 # Week_4_assignment
 
-The purpose of this assignment was to demonstrate the ability to collected, work with, 
+The purpose of this assignment was to demonstrate the ability to collect, work with, 
 and clean a complex unorganized data set. 
 
 This Run_analysis program is designed to take data from experiments that was carried out 
